@@ -11,7 +11,7 @@ The difference between Using :
 
 
 How to send data with the http requests Using the Fetch API
-## Screenshot
+## Screenshot :
 ![](Screenshot.png)
-## using : 
+## Using : 
 live server extension in VS CODE
