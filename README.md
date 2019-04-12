@@ -14,4 +14,4 @@ How to send data with the http requests Using the Fetch API
 ## Screenshot :
 ![](Screenshot.png)
 ## Using : 
-live server extension in VS CODE
+[live server extension in VS CODE](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
